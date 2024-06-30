@@ -1,5 +1,8 @@
 This is a readme file
 
 File Discription:
-date_cal.py: calculate date added with time changes #(英文)
-tarot.py: choose a tarot card randomly and post the corresponding explanations #(中文)
+date_cal.py: calculate date added with time changes 
+tarot.py: choose a tarot card randomly and post the corresponding explanations 
+
+TODO:
+add problem set-up for freecells
