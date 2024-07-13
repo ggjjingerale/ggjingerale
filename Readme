@@ -1,9 +1,1 @@
 This is a readme file
-
-File Discription:
-date_cal.py: calculate date added with time changes 
-tarot.py: choose a tarot card randomly and post the corresponding explanations 
-nlc_2dof_controller.mlx: course work of nonlinear controller
-
-TODO:
-add problem set-up for freecells
